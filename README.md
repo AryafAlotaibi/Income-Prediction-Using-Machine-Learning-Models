@@ -9,4 +9,5 @@ We applied three different machine learning models—Decision Tree Classifier, S
 The performance of each model was evaluated to determine which approach provides the most accurate classification of income categories.
 
 
-Dataset: B. Becker and R. Kohavi. "Adult," UCI Machine Learning Repository, 1996. [Online]. Available: https://doi.org/10.24432/C5XW20.
+# Dataset: 
+B. Becker and R. Kohavi. "Adult," UCI Machine Learning Repository, 1996. [Online]. Available: https://doi.org/10.24432/C5XW20.
