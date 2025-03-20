@@ -10,6 +10,8 @@ This project focuses on predicting whether an individual's annual income exceeds
 We applied three different machine learning models— Decision Tree Classifier, Support Vector Machine (SVM),and K-Nearest Neighbors (KNN)— to develop the predictive models.
 The performance of each model was evaluated to determine which approach provides the most accurate classification of income categories.
 
+This project was created as part of an ML course , with a team.
+
 
 # Dataset: 
 B. Becker and R. Kohavi. "Adult," UCI Machine Learning Repository, 1996. [Online]. Available: https://doi.org/10.24432/C5XW20.
